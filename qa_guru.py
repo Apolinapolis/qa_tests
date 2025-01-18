@@ -1,5 +1,3 @@
-
-
 def double_func():
     arr = [1,2,3]
     double_arr = []
