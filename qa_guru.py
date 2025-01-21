@@ -1,6 +1,7 @@
-def double_func():
-    arr = [1,2,3]
-    double_arr = []
-    for el in arr:
-        double_arr.append(el*2)
-    return double_arr
+
+numd = 4
+s = f"""select id 
+from pro_penis
+where {numd} and all clear"""
+
+print(s[:1])
